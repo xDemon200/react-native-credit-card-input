@@ -21,6 +21,7 @@ const s = StyleSheet.create({
   },
   form: {
     marginTop: 20,
+    backgroundColor: 'red,
   },
   verticalForm: {
     marginTop: 20,
